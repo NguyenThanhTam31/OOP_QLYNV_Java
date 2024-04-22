@@ -1,4 +1,3 @@
-// package employee;
 
 import java.util.Scanner;
 

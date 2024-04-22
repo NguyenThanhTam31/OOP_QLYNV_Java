@@ -1,4 +1,3 @@
-// package employee;
 
 public class Employee {
     protected int id;
